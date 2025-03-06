@@ -23,7 +23,7 @@ import libusb as usb
 import threading
 import time
 
-## -> GIT PUSH TEST
+## -> GIT PUSH TEST 1
 
 # 
 # Defines
